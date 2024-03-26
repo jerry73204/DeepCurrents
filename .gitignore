@@ -133,3 +133,10 @@ data
 
 # Mac stuff
 .DS_Store
+
+# editor
+*~
+.*~
+*.swp
+*.swo
+\#*#
